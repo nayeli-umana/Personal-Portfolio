@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ## Live Demo
 
-Check out my portfolio live at [https://your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app)
+Check out my portfolio live at [https://personal-portfolio-z3q2.vercel.app](https://personal-portfolio-z3q2.vercel.app)
 
 ## Features
 
