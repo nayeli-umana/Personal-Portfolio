@@ -1,0 +1,53 @@
+/* Define custom font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+ 
+/* Skills styles */
+.skillsSection {
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .sectionTitle {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 30px;
+    font-family: "Montserrat", sans-serif; /* custom font */
+  }
+  
+  .skillsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .skill {
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items vertically */
+  }
+  
+  .icon {
+    font-size: 2rem;
+    margin-bottom: 10px; /* Spacing between icon and content */
+  }
+  
+  .skill h3 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px; /* Spacing below heading */
+    font-family: "Montserrat", sans-serif; /* custom font */
+  }
+  
+  .skill p {
+    font-size: 1rem;
+    color: #666;
+    text-align: center;
+    font-family: "Montserrat", sans-serif; /* custom font */
+  }
+  

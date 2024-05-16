@@ -1,0 +1,33 @@
+/* Define custom font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Footer styles */
+.footer {
+    background-color: rgb(34, 56, 217);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: "Montserrat", sans-serif; /* custom font */
+  }
+  
+  .nav {
+    margin-top: 10px;
+  }
+  
+  .nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+    font-family: "Montserrat", sans-serif; /* custom font */
+  }
+  
+  .nav a:hover {
+    color: #ffd700; /* Change to desired hover color */
+  }
+  
